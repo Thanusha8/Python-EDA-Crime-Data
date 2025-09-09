@@ -1,5 +1,5 @@
 # Python-EDA-Crime-Data
-An exploratory data analysis of global homicide rates and counts by region
+An exploratory data analysis of global homicide rates and counts by region.
 
 This project is an **Exploratory Data Analysis (EDA)** of a global homicide dataset. It involves data cleaning, transformation, and a series of visualizations to uncover trends and patterns in homicide rates and counts across different countries, regions, and subregions over time.
 
